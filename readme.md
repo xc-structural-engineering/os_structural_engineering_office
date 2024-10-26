@@ -6,7 +6,7 @@ Open-Source software for structural engineering companies
 - [LaTeX](https://www.latex-project.org/)
 - [LibreOffice](https://www.libreoffice.org/)
 - [Inkscape](https://inkscape.org)
-
+- [Gimp](https://gimp.org)
 
 ## Structural analysis
 
@@ -14,8 +14,16 @@ Open-Source software for structural engineering companies
 - [XC](https://github.com/xcfem/xc)
 - [Code-Aster](https://code-aster.org/spip.php?rubrique2)
 
+#### Mesh generation
+- [Gmsh](https://gmsh.info/)
+- [Quadriflow](https://stanford.edu/~jingweih/papers/quadriflow/)
+- [TMR](https://github.com/smdogroup/tmr)
+
 ### Computational fluid dynamics
 - [OpenFoam](https://www.openfoam.com/)
+
+### Geotechnics
+- [PySlope](https://github.com/JesseBonanno/PySlope)
 
 ### Rigid body dynamics
 - [Open Dynamics Engine](https://www.ode.org/)
@@ -38,3 +46,7 @@ Open-Source software for structural engineering companies
 ### C++ and C++ libraries
 - [GNU C++](https://gcc.gnu.org/)
 - [IfcOpenShell](https://ifcopenshell.org/)
+
+## Computer Systems
+- [Linux](https://www.linux.org/)
+- [Syncthing](https://www.syncthing.org)
