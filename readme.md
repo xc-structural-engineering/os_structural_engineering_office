@@ -37,6 +37,9 @@ Open-Source software for structural engineering companies
 - [FreeCAD](https://www.freecad.org/)
 - [Bonsai](https://extensions.blender.org/add-ons/bonsai/)
 
+## Office automation
+- [OCRmyPDF](https://ocrmypdf.readthedocs.io/en/latest/index.html)
+
 ## Programming
 ### Python and Python modules
 - [Python](https://www.python.org/)
