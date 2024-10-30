@@ -13,6 +13,7 @@ Open-Source software for structural engineering companies
 ### Finite element analysis
 - [XC](https://github.com/xcfem/xc)
 - [Code-Aster](https://code-aster.org/spip.php?rubrique2)
+- [sectionproperties](https://github.com/robbievanleeuwen/section-properties)
 
 #### Mesh generation
 - [Gmsh](https://gmsh.info/)
