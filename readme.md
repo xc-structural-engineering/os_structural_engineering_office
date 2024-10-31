@@ -14,6 +14,10 @@ Open-Source software for structural engineering companies
 - [XC](https://github.com/xcfem/xc)
 - [Code-Aster](https://code-aster.org/spip.php?rubrique2)
 - [sectionproperties](https://github.com/robbievanleeuwen/section-properties)
+- [Calculix](https://www.calculix.de/)
+
+#### Material modelling
+- [structuralcodes](https://github.com/fib-international/structuralcodes)
 
 #### Mesh generation
 - [Gmsh](https://gmsh.info/)
