@@ -37,6 +37,7 @@ Open-Source software for structural engineering companies
 ### Numerical computation
 - [Octave](https://octave.org/)
 - [SciLab](https://www.scilab.org/)
+- [Calcpad](https://github.com/Proektsoftbg/Calcpad)
 
 ## Building information modelling
 - [FreeCAD](https://www.freecad.org/)
