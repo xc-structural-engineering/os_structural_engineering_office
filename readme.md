@@ -37,6 +37,9 @@ Open-Source software for structural engineering companies
 - [FreeCAD](https://www.freecad.org/)
 - [Bonsai](https://extensions.blender.org/add-ons/bonsai/)
 
+## Project management
+- [Ganttproject](https://www.ganttproject.biz/)
+
 ## Programming
 ### Python and Python modules
 - [Python](https://www.python.org/)
