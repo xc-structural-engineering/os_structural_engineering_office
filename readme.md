@@ -13,6 +13,11 @@ Open-Source software for structural engineering companies
 ### Finite element analysis
 - [XC](https://github.com/xcfem/xc)
 - [Code-Aster](https://code-aster.org/spip.php?rubrique2)
+- [sectionproperties](https://github.com/robbievanleeuwen/section-properties)
+- [Calculix](https://www.calculix.de/)
+
+#### Material modelling
+- [structuralcodes](https://github.com/fib-international/structuralcodes)
 
 #### Mesh generation
 - [Gmsh](https://gmsh.info/)
@@ -32,6 +37,7 @@ Open-Source software for structural engineering companies
 ### Numerical computation
 - [Octave](https://octave.org/)
 - [SciLab](https://www.scilab.org/)
+- [Calcpad](https://github.com/Proektsoftbg/Calcpad)
 
 ## Building information modelling
 - [FreeCAD](https://www.freecad.org/)
@@ -39,6 +45,9 @@ Open-Source software for structural engineering companies
 
 ## Project management
 - [Ganttproject](https://www.ganttproject.biz/)
+
+## Office automation
+- [OCRmyPDF](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 
 ## Programming
 ### Python and Python modules
