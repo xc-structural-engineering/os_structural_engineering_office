@@ -15,6 +15,7 @@ Open-Source software for structural engineering companies
 - [Code-Aster](https://code-aster.org/spip.php?rubrique2)
 - [sectionproperties](https://github.com/robbievanleeuwen/section-properties)
 - [Calculix](https://www.calculix.de/)
+- [Seismo-VLAB](http://seismovlab.com/documentation/index.html)
 
 #### Material modelling
 - [structuralcodes](https://github.com/fib-international/structuralcodes)
@@ -43,18 +44,26 @@ Open-Source software for structural engineering companies
 - [FreeCAD](https://www.freecad.org/)
 - [Bonsai](https://extensions.blender.org/add-ons/bonsai/)
 
+## Road/railway design
+- [FreeCAD.trails](https://github.com/joelgraff/freecad.trails)
+- [FreeCAD Road](https://github.com/HakanSeven12/Road)
+
 ## Office automation
 - [OCRmyPDF](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 
 ## Programming
+
 ### Python and Python modules
 - [Python](https://www.python.org/)
 - [SciPy](https://scipy.org/)
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
+- [Visualization toolkit](https://vtk.org/)
+
 ### C++ and C++ libraries
 - [GNU C++](https://gcc.gnu.org/)
 - [IfcOpenShell](https://ifcopenshell.org/)
+- [Visualization toolkit](https://vtk.org/)
 
 ## Computer Systems
 - [Linux](https://www.linux.org/)
