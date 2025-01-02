@@ -44,9 +44,13 @@ Open-Source software for structural engineering companies
 - [FreeCAD](https://www.freecad.org/)
 - [Bonsai](https://extensions.blender.org/add-ons/bonsai/)
 
+## Project management
+- [Ganttproject](https://www.ganttproject.biz/)
+
 ## Road/railway design
 - [FreeCAD.trails](https://github.com/joelgraff/freecad.trails)
 - [FreeCAD Road](https://github.com/HakanSeven12/Road)
+
 
 ## Office automation
 - [OCRmyPDF](https://ocrmypdf.readthedocs.io/en/latest/index.html)
