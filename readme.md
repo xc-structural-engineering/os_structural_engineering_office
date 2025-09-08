@@ -7,6 +7,7 @@ Open-Source software for structural engineering companies
 - [LibreOffice](https://www.libreoffice.org/)
 - [Inkscape](https://inkscape.org)
 - [Gimp](https://gimp.org)
+- [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
 ## Structural analysis
 
