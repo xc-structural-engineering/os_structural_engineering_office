@@ -51,6 +51,7 @@ Open-Source software for structural engineering companies
 ## Road/railway design
 - [FreeCAD.trails](https://github.com/joelgraff/freecad.trails)
 - [FreeCAD Road](https://github.com/HakanSeven12/Road)
+- [Freecad Turns Workbench (vehicle swept-path / turning analyses)](https://github.com/joelgraff/freecad.turns)
 
 
 ## Office automation
