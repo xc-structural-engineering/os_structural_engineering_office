@@ -4,9 +4,10 @@ Open-Source software for structural engineering companies
 ## Document preparation
 
 - [LaTeX](https://www.latex-project.org/)
-- [LibreOffice](https://www.libreoffice.org/)
+- [Scribus](https://wiki.scribus.net/canvas/Scribus)
 - [Inkscape](https://inkscape.org)
 - [Gimp](https://gimp.org)
+- [LibreOffice](https://www.libreoffice.org/)
 
 ## Structural analysis
 
